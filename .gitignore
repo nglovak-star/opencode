@@ -32,3 +32,7 @@ UPCOMING_CHANGELOG.md
 logs/
 *.bun-build
 tsconfig.tsbuildinfo
+
+# Glovak Executive Assistant keeps a tracked improvement backlog in its own logs/ dir
+!/glovak-executive-assistant/logs/
+!/glovak-executive-assistant/logs/**
